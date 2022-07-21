@@ -238,18 +238,16 @@ class DocLogin extends Component {
     const fNum = this.state.formNum;
 
     let loadForm;
-    if (fNum == 0)
+    if (fNum === 0)
       loadForm = docForm;
-    else if (fNum == 1)
+    else if (fNum === 1)
       loadForm = patForm;
-    else if (fNum == 2)
+    else if (fNum === 2)
       loadForm = hospitalForm;
-    else if (fNum == 3)
+    else if (fNum === 3)
       loadForm = ownerForm;
-    else if (fNum == 4)
+    else if (fNum === 4)
       loadForm = insuranceCompForm;
-
-
 
     return (
 
