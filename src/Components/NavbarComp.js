@@ -7,7 +7,7 @@ class NavbarComp extends Component{
     render()
     {
       let isLogged = this.props.isLogged?true:false;
-    
+         
         return(
           
             <div bg="dark">

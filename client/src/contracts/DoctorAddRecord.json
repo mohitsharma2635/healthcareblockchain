@@ -5722,12 +5722,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xD453e4f4a3f50F05990f3bD1e0e38c1A7DA323cb",
-      "transactionHash": "0x9e2c12f85d6afc57267b78f1f64e0e5b4a88e0c5a560242a96da23c20994fd04"
+      "address": "0xDc2bEBb7Ea06461aE24425019803f7FC23463345",
+      "transactionHash": "0x79356f517fc5da64acdf67240521684f74c4ff73d9fd697add6598dd0fddab5c"
     }
   },
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-07-20T14:10:02.784Z",
+  "updatedAt": "2022-07-21T04:45:46.597Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },

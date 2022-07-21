@@ -1,9 +1,9 @@
+import healthRecord from "../contracts/DoctorAddRecord.json"
+import getWeb3 from '../getWeb3';
 import React, { Component } from "react";
 import { Input, message, Tag, Card, Collapse } from "antd";
 import { Button } from "react-bootstrap";
 
-// import healthRecord from "../contracts/DoctorAddRecord.json"
-// import getWeb3 from '../getWeb3';
 
 class Owner extends Component {
   constructor(props) {
